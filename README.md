@@ -1,6 +1,6 @@
 # ML-Word-classifier
-this classifier allows to you to analyse sentiment throught words </br>
-files:</br>
+this classifier allows  you to analyse sentiment throught words </br>
+<h4>files:</br></h4>
 <ul>
     <li>
 <strong>project1</strong> : conatins the implementation of the classifier , the loss function (hinge loss) , perceptron to  find model parameters</br>
